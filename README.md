@@ -1,4 +1,7 @@
-### Hi there 👋
+### Michael Pearce 🤖
+#### DevOps 
+
+Empowering Developers and Data Scientists to autonomous and self sufficent by building greate infrastructure, automation and security.
 
 <!--
 **pearcem0/pearcem0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
